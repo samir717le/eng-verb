@@ -95,6 +95,8 @@ To view the full list of over 1,000 verbs, download the complete file or use the
 
 Feel free to suggest additional verbs or corrections by submitting a pull request.
 
+[pull request](https://github.com/samir717le/eng-verb/pulls)
+
 ---
 
 ## License
