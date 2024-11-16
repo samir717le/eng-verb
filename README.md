@@ -91,6 +91,10 @@ To view the full list of over 1,000 verbs, download the complete file or use the
 
 ---
 
+## Tense
+
+[Tense cheat sheet(click here)](tense.md)
+
 ## Contribution
 
 Feel free to suggest additional verbs or corrections by submitting a pull request.
