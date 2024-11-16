@@ -93,7 +93,7 @@ To view the full list of over 1,000 verbs, download the complete file or use the
 
 ## Tense
 
-[Tense cheat sheet(click here)](tense.md)
+[Tense cheat sheet(click here)](Tense.md)
 
 ## Contribution
 
