@@ -3,7 +3,7 @@
 ## 1. **Present Tenses**
 
 ### 1.1. Present Simple
-- **Structure:** Subject + base verb (+s/es for he/she/it)
+- **Structure:**<p style="color:gray"> Subject + base verb (+s/es for he/she/it)<p/>
 - **Usage:** Facts, routines, habits.
 - **Example:** She **writes** daily.
 
